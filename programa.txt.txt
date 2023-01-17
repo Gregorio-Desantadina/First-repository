@@ -1,7 +1,5 @@
 Programa numero 1
-<<<<<<< HEAD
 pepepe
 cambio
-=======
-borre el cambio
->>>>>>> dd13c48ff8e8ca0e7315bf1f8a9a537f0f74b3c8
+
+
